@@ -1,0 +1,25 @@
+.slick-slider.slick-initialized{
+    width: 783px;
+    margin: 20px auto 20px auto;
+    border: 1px solid;
+}
+
+.slick-slide{
+    margin: 5px;
+    width: 250px !important;
+    height: 250px !important;
+}
+
+.slick__item:nth-child(odd){
+    /* margin: 5px 5px 5px 0; */
+    margin-left: 4px;
+}
+
+.slick__item:nth-child(even){
+    /* margin: 5px 0 5px 5px; */
+}
+
+img.slick__image{
+    width: inherit;
+    height: inherit;
+}

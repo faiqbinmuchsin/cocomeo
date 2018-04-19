@@ -1,0 +1,14 @@
+.thumbnail{
+    width: 783px;
+    display: block;
+    margin: 50px auto 20px auto;
+}
+
+.thumbnail > img:nth-child(odd) {
+    width: 386px;
+    margin: 5px 5px 5px 0;
+}
+.thumbnail > img:nth-child(even) {
+    width: 386px;
+    margin: 5px 0 5px 5px;
+}
