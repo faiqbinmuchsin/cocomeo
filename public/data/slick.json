@@ -1,32 +1,32 @@
 [
     {
         "id":"1",
-        "img_url":"/cdn/cat-450-a",
+        "img_url":"/cdn/cat-450-a.jpg",
         "title":"cat a"
     },
     {
         "id":"2",
-        "img_url":"/cdn/cat-450-b",
+        "img_url":"/cdn/cat-450-b.jpg",
         "title":"cat b"
     },
     {
         "id":"3",
-        "img_url":"/cdn/cat-450-c",
+        "img_url":"/cdn/cat-450-c.jpg",
         "title":"cat c"
     },
     {
         "id":"4",
-        "img_url":"/cdn/cat-450-d",
+        "img_url":"/cdn/cat-450-d.jpg",
         "title":"cat d"
     },
     {
         "id":"5",
-        "img_url":"/cdn/cat-450-a",
+        "img_url":"/cdn/cat-450-a.jpg",
         "title":"cat e"
     },
     {
         "id":"6",
-        "img_url":"/cdn/cat-450-c",
+        "img_url":"/cdn/cat-450-c.jpg",
         "title":"cat f"
     }
 ]

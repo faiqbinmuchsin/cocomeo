@@ -1,9 +1,11 @@
 import React from 'react';
 import './banner.css';
 
-const Banner = () => (
+const Banner = ({banner}) => (
     <div className="banner">
-        <img src="/cdn/cat-banner-a.jpg" />
+        {banner.map((item)=>(
+            <img src={item.img_url} key={item.id} alt={item.alt} />
+        ))}
     </div>
 );
 
